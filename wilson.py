@@ -4,4 +4,5 @@ print ("oilssom")
 
 
 
-print ("amo caio"
+print ("sou hetero")
+print ("amo caio")
