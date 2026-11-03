@@ -1,3 +1,5 @@
-Kaio = "beta"
-if Kaio == "beta":
+kaio = "beta"
+if kaio == "beta":
   print("Boa noite neymar")
+print("Holaaaaaaa")
+
