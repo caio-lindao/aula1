@@ -1,3 +1,4 @@
-Kaio = "beta"
-if Kaio == "beta":
+ola
+kaio a2 aluno do if
   print("Boa noite neymar")
+ola mundo
